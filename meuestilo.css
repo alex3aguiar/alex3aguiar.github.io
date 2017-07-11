@@ -1,5 +1,6 @@
 
-      body {
+   body {  background-color: #f7f7f7;
+ 	 color: #333333;
         font-size: 20px;
         font-family: sans-serif;
       }
@@ -15,13 +16,16 @@
 
       .avatar img {
         border-radius: 100px;
-        width: 140px;
+        width: 200px;
         text-align: center;
       }
 
-      h1 {
+      h1 {border-bottom: 1px solid #aaaaaa;
+  	padding-bottom: 25px;
         font-size: 38px;
         font-family: serif;
+  	text-align: center;
+  	text-transform: uppercase
       }
 
       h2 {
@@ -49,3 +53,5 @@
       a:visited {
         color: #0000ee;
       }
+	  
+
