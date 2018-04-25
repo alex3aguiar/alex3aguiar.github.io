@@ -24,7 +24,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-	document.getElementById("opa").innerHTML = "'whispers' me da um emprego!";
+	document.getElementById("opa").innerHTML = "hi stranger!";
 	setTimeout(function(){
 		document.getElementById("opa").innerHTML = "</br>";},1500);
 
