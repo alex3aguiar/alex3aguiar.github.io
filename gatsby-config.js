@@ -7,33 +7,33 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Blog by Alex Silva',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
+      'Hummmmmmm',
+    copyright: '© Todos os direitos reservados.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Posts',
         path: '/',
       },
       {
-        label: 'About me',
+        label: 'Sobre mim',
         path: '/about/',
       },
       {
-        label: 'Contact me',
+        label: 'Contato',
         path: '/contact/',
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
+      name: 'Alex Silva',
       twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#',
+      email: '#',
+      github: '#alex3aguiar',
+      instagram: 'alex3aguiar/',
+      telegram:'#',
+      rss:'',
     },
   },
   plugins: [

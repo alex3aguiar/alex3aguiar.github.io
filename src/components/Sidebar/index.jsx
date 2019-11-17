@@ -46,7 +46,6 @@ class Sidebar extends React.Component {
       </div>
     )
     /* eslint-enable jsx-a11y/img-redundant-alt */
-
     return (
       <div className="sidebar">
         <div className="sidebar__inner">

@@ -42,7 +42,6 @@ export const pageQuery = graphql`
           twitter
           github
           rss
-          vk
         }
       }
     }
